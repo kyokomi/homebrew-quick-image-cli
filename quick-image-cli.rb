@@ -4,7 +4,7 @@ require "formula"
 #                /usr/local/Library/Contributions/example-formula.rb
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-class Quick < Formula
+class QuickImageCli < Formula
   homepage ""
   url "https://github.com/kyokomi/quick-image-cli/releases/download/v0.1.0/quick-image-cli.gz"
   sha1 ""
