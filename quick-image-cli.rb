@@ -6,7 +6,7 @@ require "formula"
 
 class QuickImageCli < Formula
   homepage ""
-  url "https://github.com/kyokomi/quick-image-cli/releases/download/v0.1.0/quick-image-cli.gz"
+  url "https://github.com/kyokomi/quick-image-cli/releases/download/v0.1.0/quick-image-cli_darwin_amd64.zip"
   sha1 ""
 
   # depends_on "cmake" => :build
