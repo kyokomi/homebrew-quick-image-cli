@@ -6,8 +6,8 @@ require "formula"
 
 class QuickImageCli < Formula
   homepage ""
-  url "https://github.com/kyokomi/quick-image-cli/releases/download/v0.2.1/quick-image-cli.zip"
-  sha1 "ff9503e7c0e3fdd7e4b4275306806eec62b4df35"
+  url "https://github.com/kyokomi/quick-image-cli/releases/download/v0.3.0/quick-image-cli.zip"
+  sha1 "e0252d4b8fbf0188fefe0720f1b61c44fa364278"
 
   # depends_on "cmake" => :build
   # depends_on :x11 # if your formula requires any X11/XQuartz components
